@@ -47,3 +47,7 @@ The participant codes are used only to link the experimental records with the co
 │   ├── Participant_01/
 │   ├── Participant_02/
 │   ├── Participant_03/
+|
+├── experiment_setup_and_results.md
+│
+└── README.md
