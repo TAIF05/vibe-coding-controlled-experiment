@@ -33,6 +33,7 @@ The participants completed programming tasks on the Kattis platform:
 | Task 1 | Smallest Calculated Value |
 | Task 2 | Who Goes There? | 
 | Task 3 | In-place Sorting | 
+
 The same overall session limit of **120 minutes** was used for all participants.
 The following information was recorded:
 
