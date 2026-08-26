@@ -24,11 +24,6 @@ compared with Traditional Coding.
 - [`experiment_setup_and_results.md`](experiment_setup_and_results.md) —
   experimental procedure, anonymized data, calculations and statistical results.
 
-## Important analysis note
-
-The NASA-TLX subscale values reported in the final table are **arithmetic
-group means**The NASA-TLX subscale values reported in the final table are arithmetic group means. They should not be interpreted or reported as medians.
-For the overall participant-level NASA-TLX comparison, the six subscale scores were averaged within each participant first. The resulting five participant scores from each group were then used for the Mann–Whitney U test.
 ## Data Privacy
 All participant identifiers are anonymized. No names or
 other direct identifiers are included.
