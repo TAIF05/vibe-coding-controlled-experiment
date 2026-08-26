@@ -29,7 +29,7 @@ different levels of prior familiarity with AI tools.
 The participants completed programming tasks on the Kattis platform:
 
 | Task | Problem |
-|---|---|---|---|
+|---|---:|---:|---:|
 | Task 1 | Smallest Calculated Value |
 | Task 2 | Who Goes There? | 
 | Task 3 | In-place Sorting | 
